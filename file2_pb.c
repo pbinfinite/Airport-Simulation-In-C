@@ -1,12 +1,3 @@
-/*NAME: PRAGNA BHARGAVA
-SRN: PES1UG19CS332
-SECTION: R
-ROLL.NO.5
-Problem Solving With C ASSIGNMENT
-
-QUESTION 5
-a2_pragna_q5.c (the second c file)*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
